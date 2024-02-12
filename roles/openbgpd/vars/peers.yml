@@ -696,6 +696,9 @@ lg_peers:
     asn: 150249
     ipv4: 103.153.42.74
     ipv6: 2a06:9f44:f170:ff::2
+  AS216324_HNLtd_FRE:
+    asn: 216324
+    ipv6: 2a03:5840:ff::1
 
 readonly_peers:
   BGPDOTTOOLS:
